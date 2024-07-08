@@ -1,4 +1,4 @@
-# An Alacritty Config
+# An [Alacritty](https://github.com/alacritty/alacritty) Config
 
 ## Usage
 
