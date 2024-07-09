@@ -10,7 +10,7 @@ mkdir ~/.config
 cd $_
 git clone --recurse-submodules https://github.com/lnoir/alacritty-config alacritty
 ```
-- First line ensures you actually have a `.config` directory.
+- First line ensures you actually have a `.config` directory in your home (`~`) direcrtory.
 - Second line changes directory to the one just created (`$_` reuses the last argument).
 - Third line clones the repo.
 
